@@ -14,6 +14,6 @@ int main(int argc, const char * argv[])
     int a = 0;
     int b = 0;
     cin >> a >> b;
-    cout << a - b << endl;
+    cout << a - b * 2 * 2 * 2 << endl;
     return 0;
 }
